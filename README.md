@@ -5,4 +5,4 @@
 - Для генерации изображений по подписи к мему [stable-diffusion-v1-5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5)
 
 #### Главная страница, пример работы:
-<img src="[https://github.com/StefanEpic/MemegeneratorAI/blob/main/static/front.png](https://github.com/StefanEpic/MemegeneratorAI/blob/main/static/front.png)" width="800">
+<img src="https://github.com/StefanEpic/MemegeneratorAI/blob/main/static/front.png" width="800">
